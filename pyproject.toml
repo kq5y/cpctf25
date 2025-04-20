@@ -8,6 +8,7 @@ dependencies = [
     "ptrlib",
     "pwntools>=4.14.1",
     "pycryptodome>=3.22.0",
+    "sherlock-project>=0.15.0",
 ]
 
 [tool.uv.sources]
