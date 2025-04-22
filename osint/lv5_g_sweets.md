@@ -9,7 +9,7 @@ https://hwildciz821s.blog.fc2.com/
 
 hwildciz821s: none
 
-chokonekodream@gmail.com
+chokonekodream at gmail.com
 chokonekodream: https://www.youtube.com/@chokonekodream
 
 https://www.youtube.com/shorts/d-rkJLhdCog
